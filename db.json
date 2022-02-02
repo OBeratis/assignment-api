@@ -12,5 +12,12 @@
       "username": "oberatis",
       "translations": []
     }
+  ],
+  "trainers": [
+    {
+      "id": 1,
+      "username": "oberatis",
+      "pokemon": []
+    }
   ]
 }
