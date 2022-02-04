@@ -18,6 +18,11 @@
       "id": 1,
       "username": "oberatis",
       "pokemon": []
-    }
+    },
+    {
+      "id": 2,
+      "username": "trainer",
+      "pokemon": []
+    }    
   ]
 }
