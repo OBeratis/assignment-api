@@ -15,14 +15,17 @@
   ],
   "trainers": [
     {
-      "id": 1,
-      "username": "oberatis",
-      "pokemon": []
-    },
-    {
-      "id": 2,
-      "username": "trainer",
-      "pokemon": []
+      "username": "oliver.hauck",
+      "pokemon": [
+        2,
+        2,
+        1,
+        4,
+        3,
+        4,
+        5
+      ],
+      "id": 1
     }    
   ]
 }
